@@ -1,4 +1,4 @@
-# GameFisica
+#Game para aprender fisica
 
 Trabalho para feira de ciência do 2A 
 4 bimestre 2019
