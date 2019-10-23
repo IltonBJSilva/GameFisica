@@ -14,7 +14,7 @@ Professora do trabalho: Ana Paula Vilella
 Tecnologias utilizadas:
 	HTML,
 	JS(Javascript),
-	Texto,
+	Texto
 	
 Site utilizado para criação do projeto:
 	https://twinery.org/
