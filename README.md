@@ -12,8 +12,9 @@ Desenvolvedor: Ilton Batista da Silva Júnior
 Professora do trabalho: Ana Paula Vilella
  
 Tecnologias utilizadas:
-	HTML
-	JS(Javascript)
-	Texto
+	HTML,
+	JS(Javascript),
+	Texto,
+	
 Site utilizado para criação do projeto:
 	https://twinery.org/
