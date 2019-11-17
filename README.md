@@ -18,3 +18,6 @@ Tecnologias utilizadas:
 	
 Site utilizado para criação do projeto:
 	https://twinery.org/
+	
+Link do Jogo:
+https://iltonbjsilva-gamefisica.glitch.me/Participantes%20do%20projeto/
